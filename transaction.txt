@@ -1,0 +1,7 @@
+deposited amount is:200.0 			 Balance Amount:250.0
+Withdrawal amount is:200.0 			 Balance Amount:-150.0
+Withdrawal amount is:200.0 			 Balance Amount:-150.0
+Withdrawal amount is:1200.0 			 Balance Amount:118800.0
+deposited amount is:120000.0 			 Balance Amount:238800.0
+Withdrawal amount is:200.0 			 Balance Amount:119800.0
+deposited amount is:222222.0 			 Balance Amount:342222.0
